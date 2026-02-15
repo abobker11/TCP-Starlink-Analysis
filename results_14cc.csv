@@ -1,0 +1,57 @@
+condition,cc,flows,value,unit
+normal,cubic,1,
+normal,bbr,1,
+normal,bic,1,
+normal,cdg,1,
+normal,dctcp,1,
+normal,highspeed,1,
+normal,htcp,1,
+normal,hybla,1,
+normal,illinois,1,
+normal,lp,1,
+normal,nv,1,
+normal,scalable,1,
+normal,veno,1,
+normal,westwood,1,
+normal,cubic,10,27.5 Gbits/sec
+normal,bbr,10,13.0 Gbits/sec
+normal,bic,10,27.2 Gbits/sec
+normal,cdg,10,27.6 Gbits/sec
+normal,dctcp,10,28.4 Gbits/sec
+normal,highspeed,10,27.6 Gbits/sec
+normal,htcp,10,27.8 Gbits/sec
+normal,hybla,10,27.8 Gbits/sec
+normal,illinois,10,27.9 Gbits/sec
+normal,lp,10,26.2 Gbits/sec
+normal,nv,10,13.2 Gbits/sec
+normal,scalable,10,27.0 Gbits/sec
+normal,veno,10,26.2 Gbits/sec
+normal,westwood,10,26.3 Gbits/sec
+delay50_loss2_bw10,cubic,1,
+delay50_loss2_bw10,bbr,1,
+delay50_loss2_bw10,bic,1,
+delay50_loss2_bw10,cdg,1,
+delay50_loss2_bw10,dctcp,1,
+delay50_loss2_bw10,highspeed,1,
+delay50_loss2_bw10,htcp,1,
+delay50_loss2_bw10,hybla,1,
+delay50_loss2_bw10,illinois,1,
+delay50_loss2_bw10,lp,1,
+delay50_loss2_bw10,nv,1,
+delay50_loss2_bw10,scalable,1,
+delay50_loss2_bw10,veno,1,
+delay50_loss2_bw10,westwood,1,
+delay50_loss2_bw10,cubic,10,5.72 Mbits/sec
+delay50_loss2_bw10,bbr,10,7.33 Mbits/sec
+delay50_loss2_bw10,bic,10,7.10 Mbits/sec
+delay50_loss2_bw10,cdg,10,7.06 Mbits/sec
+delay50_loss2_bw10,dctcp,10,5.35 Mbits/sec
+delay50_loss2_bw10,highspeed,10,7.51 Mbits/sec
+delay50_loss2_bw10,htcp,10,5.09 Mbits/sec
+delay50_loss2_bw10,hybla,10,5.59 Mbits/sec
+delay50_loss2_bw10,illinois,10,
+delay50_loss2_bw10,lp,10,4.60 Mbits/sec
+delay50_loss2_bw10,nv,10,7.54 Mbits/sec
+delay50_loss2_bw10,scalable,10,6.29 Mbits/sec
+delay50_loss2_bw10,veno,10,6.47 Mbits/sec
+delay50_loss2_bw10,westwood,10,7.30 Mbits/sec
